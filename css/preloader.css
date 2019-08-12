@@ -3,7 +3,9 @@
     overflow: hidden;
     margin: auto;
 }
-
+#sary{
+    border:2px !important;
+}
 /* Preloader */
 #preloader {
     position: fixed;
