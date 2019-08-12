@@ -6,7 +6,9 @@
     /* FEATURED CLIENTS SECTION*/
     #clients img{height: 50px;}
 }
-
+#sary{
+    border: 2px !important;
+}
 /* Small Devices, Tablets */
 @media only screen and (max-width : 980px) {
     
